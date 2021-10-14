@@ -1,0 +1,16 @@
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\bin\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.exe
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\bin\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.deps.json
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\bin\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.runtimeconfig.json
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\bin\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.runtimeconfig.dev.json
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\bin\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.dll
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\bin\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.pdb
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\obj\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.csproj.AssemblyReference.cache
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\obj\Debug\netcoreapp3.1\AdressBook_Inlämningsuppgift_1.FormOne.resources
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\obj\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.csproj.GenerateResource.cache
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\obj\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\obj\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.AssemblyInfoInputs.cache
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\obj\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.AssemblyInfo.cs
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\obj\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.csproj.CoreCompileInputs.cache
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\obj\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.dll
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\obj\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.pdb
+C:\Users\46704\source\repos\AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1\obj\Debug\netcoreapp3.1\AdressBook-Inlämningsuppgift 1.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdressBook-Inlämningsuppgift 1", "AdressBook-Inlämningsuppgift 1\AdressBook-Inlämningsuppgift 1.csproj", "{9267FC35-6CCB-4590-A73B-2B24F49E9D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9267FC35-6CCB-4590-A73B-2B24F49E9D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9267FC35-6CCB-4590-A73B-2B24F49E9D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9267FC35-6CCB-4590-A73B-2B24F49E9D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9267FC35-6CCB-4590-A73B-2B24F49E9D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {749C8947-2CC8-416F-A6CD-6DBD5E0B08D0}
+	EndGlobalSection
+EndGlobal
